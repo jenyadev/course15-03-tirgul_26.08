@@ -2,8 +2,7 @@
 #build web server
 #buil by jenyatopol
 provider "aws" {
-    access_key = "AKIAWCNRUZYO2FWSQWME"
-    secret_key = "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"
+    
     region = "us-east-1"
   
 }
